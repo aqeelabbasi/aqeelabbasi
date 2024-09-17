@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **[.NET Core 8](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0)**
 
 - 🌱 I’m currently learning **[Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)**
+- 🌱 I’m currently learning **[.Net Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** 
 
